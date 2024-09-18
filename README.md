@@ -1,16 +1,7 @@
 # flutter_practice_app_1
 
-A new Flutter project.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![ecommobile2](https://github.com/user-attachments/assets/10be5cee-aa87-42ad-a43c-fb1ddbdd00b8)
+![ecommobile1](https://github.com/user-attachments/assets/4d5e8d9e-8e89-4520-b871-db9f55cb28bf)
+![ecommobile](https://github.com/user-attachments/assets/151d3725-6e05-432b-a673-4fa4bd60c01f)
+![Figma Flutter Desgin 1](https://github.com/user-attachments/assets/a6860451-d2a7-4ba2-a782-0ed2fef4bf86)
